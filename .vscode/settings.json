@@ -37,10 +37,10 @@
     ],
     "Lua.runtime.pathStrict": true,
     "Lua.workspace.library": [
-        "d:/SWLUA/Beacon Position Solver/",
-        "c:/Users/thira/.vscode/extensions/nameouschangey.lifeboatapi-0.0.33/assets/lua/Common/",
-        "c:/Users/thira/.vscode/extensions/nameouschangey.lifeboatapi-0.0.33/assets/lua/Microcontroller/",
-        "d:/SWLUA/Beacon Position Solver/_build/libs/"
+        "c:/Users/ekxme/Documents/StormWorks Lua/Beacon-Position-Solver/",
+        "c:/Users/ekxme/.vscode/extensions/nameouschangey.lifeboatapi-0.0.33/assets/lua/Common/",
+        "c:/Users/ekxme/.vscode/extensions/nameouschangey.lifeboatapi-0.0.33/assets/lua/Microcontroller/",
+        "c:/Users/ekxme/Documents/StormWorks Lua/Beacon-Position-Solver/_build/libs/"
     ],
     "lifeboatapi.stormworks.libs.gitLibraries": [
         {
